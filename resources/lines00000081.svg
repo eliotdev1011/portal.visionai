@@ -1,0 +1,54 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="2100px" height="1275px" viewBox="0 0 2100 1275">
+<defs/>
+
+<g id="Capa_1">
+<g>
+<g>
+<path stroke="#FFFFFF" stroke-width="1" stroke-linejoin="miter" stroke-linecap="round" stroke-miterlimit="10" fill="none" d="
+M 2071.35 21.7
+L 2092.05 40.3
+M 2079.85 295.55
+Q 2086.6 286.15 2092.15 279.25"/>
+</g>
+
+<g>
+<path stroke="#FFFFFF" stroke-width="1" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="10" fill="none" d="
+M 2092.15 279.25
+L 2092.05 40.3
+M 42 1150.25
+L 42 929.25
+M 42 928.7
+L 42 503.75
+M 12.05 20.35
+L 2071.35 21.7"/>
+</g>
+
+<g>
+<path stroke="#FFFFFF" stroke-width="1" stroke-linejoin="round" stroke-linecap="square" fill="none" d="
+M 2079.6 296.05
+L 2079.8 1267.2
+M 12.05 20.35
+L 12 79.25
+M 23.35 95.6
+L 23.35 487.45"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -38.75,-13.3) ">
+<g>
+<path stroke="#FFFFFF" stroke-width="1" stroke-linejoin="miter" stroke-linecap="round" stroke-miterlimit="10" fill="none" d="
+M 50.8 93.05
+L 62.1 108.55"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -38.75,-13.3) ">
+<g>
+<path stroke="#FFFFFF" stroke-width="1" stroke-linejoin="miter" stroke-linecap="round" stroke-miterlimit="10" fill="none" d="
+M 80.75 517.025
+L 62.1 501.2"/>
+</g>
+</g>
+</g>
+</svg>

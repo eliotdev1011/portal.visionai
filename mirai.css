@@ -1,0 +1,89 @@
+@font-face{
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Arial'),
+         url('resources/arial.woff');
+}
+@font-face{
+    font-family: 'Liberation Mono';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Liberation Mono'),
+         url('resources/liberation mono.woff');
+}
+@font-face{
+    font-family: 'Prototype';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Prototype'),
+         url('resources/prototype.woff');
+}
+@font-face{
+    font-family: 'Prototype';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Prototype Bold'),
+         url('resources/prototype_bold.woff');
+}
+
+
+
+html, body {
+    width: 100%!important;
+    overflow-x: hidden!important;
+
+}
+.rectangle; {
+    width: 1200px!important; 
+    height: 1000px!important;
+    background-color: black!important;
+}
+
+.background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('background/back.jpg');
+    background-size: cover;
+    background-position: center;
+    transition: transform 0.1s ease-out;
+    z-index: -1;
+}
+
+ .background::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0,0.20); /* Negro con 2% de opacidad */
+        }
+
+
+
+::-webkit-scrollbar {
+  width: 5px; /* Ancho de la barra de desplazamiento */
+}
+
+::-webkit-scrollbar-track {
+  background: #000000; /* Color de fondo de la pista de desplazamiento */
+}
+
+::-webkit-scrollbar-thumb {
+  background: #99EE2D; /* Color del pulgar de desplazamiento */
+  border-radius: 7px; /* Redondeo de las esquinas del pulgar */
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #99EE2D; /* Color del pulgar cuando se pasa el ratón por encima */
+}
+
+/* Para Firefox */
+html {
+  scrollbar-width: thin; /* Ancho de la barra de desplazamiento */
+  scrollbar-color: #99EE2D #000000; /* Color del pulgar y la pista respectivamente */
+}
