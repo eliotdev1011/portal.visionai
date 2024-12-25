@@ -9006,7 +9006,7 @@
 							"rs": 152
 						}, {
 							"e": [
-								[100, [101, "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000", true]],
+								[100, [101, "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x12466fA1702e20B424DCfD58E6924dd86069Bd94", true]],
 								[107, [21, 71, 1, 0]],
 								[108, [21, 71, 1, 1]]
 							],
@@ -9033,7 +9033,7 @@
 							]
 						}, {
 							"e": [
-								[100, [101, "https://www.dextools.io/app/en/ether/pool-explorer/0x", true]],
+								[100, [101, "https://www.dextools.io/app/en/ether/pair-explorer/0xcb28a1555d2f18174ebc13402bd80d8396265c21", true]],
 								[107, [21, 72, 1, 0]],
 								[108, [21, 72, 1, 1]]
 							],
@@ -18514,7 +18514,7 @@
 			}, {
 				"ap": false,
 				"e": [
-					[100, [101, "https://www.dextools.io/app/en/ether/pool-explorer/0x", true]],
+					[100, [101, "https://www.dextools.io/app/en/ether/pair-explorer/0xcb28a1555d2f18174ebc13402bd80d8396265c21", true]],
 					[107, [21, 546, 1, 0]],
 					[108, [21, 546, 1, 1]]
 				],
@@ -18604,7 +18604,7 @@
 			}, {
 				"ap": false,
 				"e": [
-					[100, [101, "https://www.dextools.io/app/en/ether/pool-explorer/0x", true]],
+					[100, [101, "https://www.dextools.io/app/en/ether/pair-explorer/0xcb28a1555d2f18174ebc13402bd80d8396265c21", true]],
 					[107, [21, 553, 1, 0]],
 					[108, [21, 553, 1, 1]]
 				],
@@ -18777,7 +18777,7 @@
 			}, {
 				"ap": false,
 				"e": [
-					[100, [101, "https://etherscan.io/token/0x00000000000000000000000000000000000000", true]],
+					[100, [101, "https://etherscan.io/token/0x12466fA1702e20B424DCfD58E6924dd86069Bd94", true]],
 					[107, [21, 559, 1, 0]],
 					[108, [21, 559, 1, 1]]
 				],
