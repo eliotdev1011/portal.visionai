@@ -18694,7 +18694,7 @@
 			}, {
 				"ap": false,
 				"e": [
-					[100, [101, "https://ifrices-organization.gitbook.io/visionai/", true]],
+					[100, [101, "http://docs.vsai.pro/", true]],
 					[107, [21, 555, 1, 0]],
 					[108, [21, 555, 1, 1]]
 				],
@@ -18909,7 +18909,7 @@
 			}, {
 				"ap": false,
 				"e": [
-					[100, [101, "https://app-visionai128.vercel.app/staking", true]],
+					[100, [101, "https://app.vsai.pro/staking", true]],
 					[107, [21, 563, 1, 0]],
 					[108, [21, 563, 1, 1]]
 				],
